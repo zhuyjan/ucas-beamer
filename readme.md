@@ -13,11 +13,11 @@
 
   
 
-![image-20241120165817468](https://gitee.com/meetzyj/typora-images/raw/master/imgs/20241120165819.png)
+![image-20241120165817468](./figs/img1.png)
 
-![image-20241120165830628](https://gitee.com/meetzyj/typora-images/raw/master/imgs/20241120165830.png)
+![image-20241120165830628](./figs/img2.png)
 
-![image-20241120170706245](https://gitee.com/meetzyj/typora-images/raw/master/imgs/20241120170706.png)
+![image-20241120170706245](./figs/img3.png)
 
 
 
